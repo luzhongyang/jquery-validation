@@ -1,8 +1,6 @@
 ## 变更
+- 根据错误码辨别后端校验结果。后端返回200，认为通过，后端返回4XX时再读取错误信息显示出来
 -
--
--
----
 [jQuery Validation Plugin](http://jqueryvalidation.org/) - Form validation made easy
 ================================
 
