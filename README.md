@@ -1,3 +1,8 @@
+## 变更
+-
+-
+-
+---
 [jQuery Validation Plugin](http://jqueryvalidation.org/) - Form validation made easy
 ================================
 
